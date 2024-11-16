@@ -31,7 +31,7 @@ gitswitch example
 
 Example command output:
 ```
-/Users/tskr/.config/gitswitch
+/Users/user/.config/gitswitch
 Switching account to .example
 Switching SSH Agent context
 All identities removed.

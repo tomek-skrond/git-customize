@@ -4,7 +4,7 @@ set -euo pipefail
 
 SCRIPTPATH=$(echo $(dirname $0))
 
-echo $SCRIPTPATH
+echo "Using configuration from $SCRIPTPATH"
 
 ACCOUNT="$1"
 
